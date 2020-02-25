@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="1" name="Test">
+    <classes>
+      <class name="mindtree.yorbit.mercury.testcases.LoginTest"/>
+      <class name="mindtree.yorbit.mercury.testcases.RegistrationTest"/>
+      <class name="mindtree.yorbit.mercury.testcases.HeaderHyperlinkTest"/>
+      <class name="mindtree.yorbit.mercury.testcases.RoundTripBookingTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

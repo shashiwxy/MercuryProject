@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="765201" started-at="2019-10-16T06:35:13Z" finished-at="2019-10-16T06:47:58Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="765201" started-at="2019-10-16T06:35:13Z" finished-at="2019-10-16T06:47:58Z">
+      <class name="mindtree.yorbit.mercury.testcases.RoundTripBookingTest">
+        <test-method status="PASS" signature="driverInitialization()[pri:0, instance:mindtree.yorbit.mercury.testcases.RoundTripBookingTest@31f924f5]" name="driverInitialization" is-config="true" duration-ms="8473" started-at="2019-10-16T06:45:34Z" finished-at="2019-10-16T06:45:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverInitialization -->
+        <test-method status="PASS" signature="roundTripBooking(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:mindtree.yorbit.mercury.testcases.RoundTripBookingTest@31f924f5]" name="roundTripBooking" duration-ms="134798" started-at="2019-10-16T06:45:43Z" data-provider="bookingData" finished-at="2019-10-16T06:47:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mercury]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mercury]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sydney]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[November]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[London]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Deepak]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Sharma]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[123456789]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Global Village]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[AwesomeCity]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[NewYork]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[987688]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- roundTripBooking -->
+        <test-method status="PASS" signature="getMethodName(java.lang.reflect.Method)[pri:0, instance:mindtree.yorbit.mercury.testcases.RoundTripBookingTest@31f924f5]" name="getMethodName" is-config="true" duration-ms="0" started-at="2019-10-16T06:45:43Z" finished-at="2019-10-16T06:45:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void mindtree.yorbit.mercury.testcases.RoundTripBookingTest.roundTripBooking(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMethodName -->
+        <test-method status="PASS" signature="flush()[pri:0, instance:mindtree.yorbit.mercury.testcases.RoundTripBookingTest@31f924f5]" name="flush" is-config="true" duration-ms="191" started-at="2019-10-16T06:47:58Z" finished-at="2019-10-16T06:47:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+      </class> <!-- mindtree.yorbit.mercury.testcases.RoundTripBookingTest -->
+      <class name="mindtree.yorbit.mercury.testcases.LoginTest">
+        <test-method status="PASS" signature="driverInitialization()[pri:0, instance:mindtree.yorbit.mercury.testcases.LoginTest@fcd6521]" name="driverInitialization" is-config="true" duration-ms="54536" started-at="2019-10-16T06:35:13Z" finished-at="2019-10-16T06:36:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverInitialization -->
+        <test-method status="PASS" signature="getMethodName(java.lang.reflect.Method)[pri:0, instance:mindtree.yorbit.mercury.testcases.LoginTest@fcd6521]" name="getMethodName" is-config="true" duration-ms="5" started-at="2019-10-16T06:36:08Z" finished-at="2019-10-16T06:36:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void mindtree.yorbit.mercury.testcases.LoginTest.login(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMethodName -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:1, instance:mindtree.yorbit.mercury.testcases.LoginTest@fcd6521]" name="login" duration-ms="117331" started-at="2019-10-16T06:36:08Z" data-provider="loginData" finished-at="2019-10-16T06:38:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mercury]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mercury]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="flush()[pri:0, instance:mindtree.yorbit.mercury.testcases.LoginTest@fcd6521]" name="flush" is-config="true" duration-ms="616" started-at="2019-10-16T06:38:05Z" finished-at="2019-10-16T06:38:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+      </class> <!-- mindtree.yorbit.mercury.testcases.LoginTest -->
+      <class name="mindtree.yorbit.mercury.testcases.RegistrationTest">
+        <test-method status="PASS" signature="driverInitialization()[pri:0, instance:mindtree.yorbit.mercury.testcases.RegistrationTest@27d415d9]" name="driverInitialization" is-config="true" duration-ms="61809" started-at="2019-10-16T06:38:06Z" finished-at="2019-10-16T06:39:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverInitialization -->
+        <test-method status="PASS" signature="registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:mindtree.yorbit.mercury.testcases.RegistrationTest@27d415d9]" name="registration" duration-ms="165791" started-at="2019-10-16T06:39:08Z" data-provider="registrationData" finished-at="2019-10-16T06:41:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Deepak]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sharma]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9898989898]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[deep@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Global Village]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Bangalore]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Karnataka]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Yorbit]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Yorbit]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Yorbit]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registration -->
+        <test-method status="PASS" signature="getMethodName(java.lang.reflect.Method)[pri:0, instance:mindtree.yorbit.mercury.testcases.RegistrationTest@27d415d9]" name="getMethodName" is-config="true" duration-ms="0" started-at="2019-10-16T06:39:08Z" finished-at="2019-10-16T06:39:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void mindtree.yorbit.mercury.testcases.RegistrationTest.registration(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMethodName -->
+        <test-method status="PASS" signature="getMethodName(java.lang.reflect.Method)[pri:0, instance:mindtree.yorbit.mercury.testcases.RegistrationTest@27d415d9]" name="getMethodName" is-config="true" duration-ms="0" started-at="2019-10-16T06:41:54Z" finished-at="2019-10-16T06:41:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void mindtree.yorbit.mercury.testcases.RegistrationTest.registration(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMethodName -->
+        <test-method status="PASS" signature="registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:mindtree.yorbit.mercury.testcases.RegistrationTest@27d415d9]" name="registration" duration-ms="103187" started-at="2019-10-16T06:41:54Z" data-provider="registrationData" finished-at="2019-10-16T06:43:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rohan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sharma]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9898989898]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[rohan@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[maratalli]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Bangalore]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Karnataka]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[123457]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Samsung]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Samsung]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Samsung]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registration -->
+        <test-method status="PASS" signature="flush()[pri:0, instance:mindtree.yorbit.mercury.testcases.RegistrationTest@27d415d9]" name="flush" is-config="true" duration-ms="828" started-at="2019-10-16T06:43:37Z" finished-at="2019-10-16T06:43:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+      </class> <!-- mindtree.yorbit.mercury.testcases.RegistrationTest -->
+      <class name="mindtree.yorbit.mercury.testcases.HeaderHyperlinkTest">
+        <test-method status="PASS" signature="driverInitialization()[pri:0, instance:mindtree.yorbit.mercury.testcases.HeaderHyperlinkTest@5c18298f]" name="driverInitialization" is-config="true" duration-ms="33475" started-at="2019-10-16T06:43:38Z" finished-at="2019-10-16T06:44:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverInitialization -->
+        <test-method status="PASS" signature="getMethodName(java.lang.reflect.Method)[pri:0, instance:mindtree.yorbit.mercury.testcases.HeaderHyperlinkTest@5c18298f]" name="getMethodName" is-config="true" duration-ms="1" started-at="2019-10-16T06:44:11Z" finished-at="2019-10-16T06:44:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void mindtree.yorbit.mercury.testcases.HeaderHyperlinkTest.hyperLinks()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMethodName -->
+        <test-method status="PASS" signature="hyperLinks()[pri:1, instance:mindtree.yorbit.mercury.testcases.HeaderHyperlinkTest@5c18298f]" name="hyperLinks" duration-ms="82798" started-at="2019-10-16T06:44:11Z" finished-at="2019-10-16T06:45:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hyperLinks -->
+        <test-method status="PASS" signature="flush()[pri:0, instance:mindtree.yorbit.mercury.testcases.HeaderHyperlinkTest@5c18298f]" name="flush" is-config="true" duration-ms="218" started-at="2019-10-16T06:45:34Z" finished-at="2019-10-16T06:45:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+      </class> <!-- mindtree.yorbit.mercury.testcases.HeaderHyperlinkTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

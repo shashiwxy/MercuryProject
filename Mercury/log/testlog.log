@@ -1,0 +1,82 @@
+2018-11-28 15:30:30,086 - mindtree.yorbit.mercury.testcases.RegistrationTest -INFO - hii
+2018-11-28 15:30:30,123 - mindtree.yorbit.mercury.testcases.RegistrationTest -INFO - clicked on registration link
+2018-11-28 15:30:34,393 - mindtree.yorbit.mercury.testcases.RegistrationTest -INFO - Dear Deepak Sharma,
+Thank you for registering. You may now sign-in using the user name and password you've just entered.
+Note: Your user name is Yorbit.
+2018-11-28 15:32:08,734 - mindtree.yorbit.mercury.testcases.RegistrationTest -INFO - clicked on registration link
+2018-11-28 15:32:21,276 - mindtree.yorbit.mercury.testcases.RegistrationTest -INFO - Dear Deepak Sharma,
+Thank you for registering. You may now sign-in using the user name and password you've just entered.
+Note: Your user name is Yorbit.
+2018-11-28 18:41:29,361 - mindtree.yorbit.mercury.testcases.RegistrationTest -INFO - clicked on registration link
+2018-11-28 18:41:33,163 - mindtree.yorbit.mercury.testcases.RegistrationTest -INFO - Dear Deepak Sharma,
+Thank you for registering. You may now sign-in using the user name and password you've just entered.
+Note: Your user name is Yorbit.
+2018-11-28 18:57:02,396 - mindtree.yorbit.mercury.testcases.RegistrationTest -INFO - clicked on registration link
+2018-11-28 18:57:15,077 - mindtree.yorbit.mercury.testcases.RegistrationTest -INFO - Dear Deepak Sharma,
+Thank you for registering. You may now sign-in using the user name and password you've just entered.
+Note: Your user name is Yorbit.
+2018-11-28 19:12:11,102 - mindtree.yorbit.mercury.testcases.RegistrationTest -INFO - clicked on registration link
+2018-11-28 19:12:14,003 - mindtree.yorbit.mercury.testcases.RegistrationTest -INFO - Dear Deepak Sharma,
+Thank you for registering. You may now sign-in using the user name and password you've just entered.
+Note: Your user name is Yorbit.
+2018-11-28 19:12:15,334 - mindtree.yorbit.mercury.testcases.RegistrationTest -INFO - clicked on registration link
+2018-11-28 19:12:17,956 - mindtree.yorbit.mercury.testcases.RegistrationTest -INFO - Dear Rohan Sharma,
+Thank you for registering. You may now sign-in using the user name and password you've just entered.
+Note: Your user name is Samsung.
+2018-12-05 18:08:29,769 - mindtree.yorbit.mercury.testcases.LoginTest -INFO - check
+2018-12-05 18:08:38,650 - mindtree.yorbit.mercury.testcases.LoginTest -INFO - User logged-in successfully
+2018-12-05 18:09:09,639 - mindtree.yorbit.mercury.testcases.RegistrationTest -INFO - clicked on registration link
+2018-12-05 18:09:13,104 - mindtree.yorbit.mercury.testcases.RegistrationTest -INFO - Dear Deepak Sharma,
+Thank you for registering. You may now sign-in using the user name and password you've just entered.
+Note: Your user name is Yorbit.
+2018-12-05 18:09:14,132 - mindtree.yorbit.mercury.testcases.RegistrationTest -INFO - clicked on registration link
+2018-12-05 18:09:19,534 - mindtree.yorbit.mercury.testcases.RegistrationTest -INFO - Dear Rohan Sharma,
+Thank you for registering. You may now sign-in using the user name and password you've just entered.
+Note: Your user name is Samsung.
+2018-12-05 18:09:26,220 - mindtree.yorbit.mercury.testcases.HeaderHyperlinkTest -INFO - SIGN-ON Link clicked successfully
+2018-12-05 18:09:27,651 - mindtree.yorbit.mercury.testcases.HeaderHyperlinkTest -INFO - REGISTER Link clicked successfully
+2018-12-05 18:09:28,784 - mindtree.yorbit.mercury.testcases.HeaderHyperlinkTest -INFO - SUPPORT Link clicked successfully
+2018-12-05 18:09:30,944 - mindtree.yorbit.mercury.testcases.HeaderHyperlinkTest -INFO - CONTACT Link clicked successfully
+2018-12-05 18:09:43,455 - mindtree.yorbit.mercury.testcases.LoginTest -INFO - User logged-in successfully
+2018-12-05 18:09:45,376 - mindtree.yorbit.mercury.testcases.LoginTest -INFO - moved to flight selection page
+2018-12-05 18:09:47,589 - mindtree.yorbit.mercury.testcases.LoginTest -INFO - moved to passenger details screen
+2018-12-05 18:10:12,002 - mindtree.yorbit.mercury.testcases.LoginTest -INFO - Congratulations your  Flight Confirmation # 2018-12-05043949  !!
+2019-09-27 19:12:28,571 - java.lang.Exception -ERROR - Unable to find the specified locator: Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='login']'
+2019-09-27 19:12:28,610 - mindtree.yorbit.mercury.pageobjects.LoginPage -ERROR - error occured!!
+2019-09-27 19:12:28,709 - mindtree.yorbit.mercury.testcases.LoginTest -INFO - User logged-in successfully
+2019-09-27 19:12:40,431 - mindtree.yorbit.mercury.testcases.RegistrationTest -INFO - clicked on registration link
+2019-09-27 19:19:32,412 - mindtree.yorbit.mercury.testcases.RegistrationTest -INFO - Dear Deepak Sharma,
+Thank you for registering. You may now sign-in using the user name and password you've just entered.
+Note: Your user name is Yorbit.
+2019-09-27 19:19:33,410 - mindtree.yorbit.mercury.testcases.RegistrationTest -INFO - clicked on registration link
+2019-09-27 19:32:12,167 - mindtree.yorbit.mercury.testcases.HeaderHyperlinkTest -INFO - SIGN-ON Link clicked successfully
+2019-09-27 19:32:13,555 - mindtree.yorbit.mercury.testcases.HeaderHyperlinkTest -INFO - REGISTER Link clicked successfully
+2019-09-27 19:32:14,637 - mindtree.yorbit.mercury.testcases.HeaderHyperlinkTest -INFO - SUPPORT Link clicked successfully
+2019-09-27 19:32:16,639 - mindtree.yorbit.mercury.testcases.HeaderHyperlinkTest -INFO - CONTACT Link clicked successfully
+2019-09-27 19:34:45,710 - mindtree.yorbit.mercury.testcases.LoginTest -INFO - User logged-in successfully
+2019-09-27 19:34:59,401 - mindtree.yorbit.mercury.testcases.LoginTest -INFO - moved to flight selection page
+2019-09-27 19:35:16,227 - mindtree.yorbit.mercury.testcases.LoginTest -INFO - moved to passenger details screen
+2019-09-27 19:35:25,362 - mindtree.yorbit.mercury.testcases.LoginTest -INFO - Congratulations your  Flight Confirmation # 2019-09-27070524  !!
+2019-10-16 11:35:30,459 - mindtree.yorbit.mercury.testcases.LoginTest -INFO - User logged-in successfully
+2019-10-16 11:37:03,953 - mindtree.yorbit.mercury.testcases.RegistrationTest -INFO - clicked on registration link
+2019-10-16 11:42:59,723 - mindtree.yorbit.mercury.testcases.LoginTest -INFO - User logged-in successfully
+2019-10-16 11:44:27,966 - mindtree.yorbit.mercury.testcases.LoginTest -INFO - moved to flight selection page
+2019-10-16 11:44:58,385 - mindtree.yorbit.mercury.testcases.LoginTest -INFO - moved to passenger details screen
+2019-10-16 11:45:56,374 - mindtree.yorbit.mercury.testcases.LoginTest -INFO - Congratulations your  Flight Confirmation # 2019-10-15231511  !!
+2019-10-16 12:07:10,200 - mindtree.yorbit.mercury.testcases.LoginTest -INFO - User logged-in successfully
+2019-10-16 12:10:34,163 - mindtree.yorbit.mercury.testcases.RegistrationTest -INFO - clicked on registration link
+2019-10-16 12:11:54,285 - mindtree.yorbit.mercury.testcases.RegistrationTest -INFO - Dear Deepak Sharma,
+Thank you for registering. You may now sign-in using the user name and password you've just entered.
+Note: Your user name is Yorbit.
+2019-10-16 12:12:24,814 - mindtree.yorbit.mercury.testcases.RegistrationTest -INFO - clicked on registration link
+2019-10-16 12:13:37,476 - mindtree.yorbit.mercury.testcases.RegistrationTest -INFO - Dear Rohan Sharma,
+Thank you for registering. You may now sign-in using the user name and password you've just entered.
+Note: Your user name is Samsung.
+2019-10-16 12:14:34,341 - mindtree.yorbit.mercury.testcases.HeaderHyperlinkTest -INFO - SIGN-ON Link clicked successfully
+2019-10-16 12:14:52,756 - mindtree.yorbit.mercury.testcases.HeaderHyperlinkTest -INFO - REGISTER Link clicked successfully
+2019-10-16 12:15:22,116 - mindtree.yorbit.mercury.testcases.HeaderHyperlinkTest -INFO - SUPPORT Link clicked successfully
+2019-10-16 12:15:34,041 - mindtree.yorbit.mercury.testcases.HeaderHyperlinkTest -INFO - CONTACT Link clicked successfully
+2019-10-16 12:16:34,871 - mindtree.yorbit.mercury.testcases.LoginTest -INFO - User logged-in successfully
+2019-10-16 12:16:40,787 - mindtree.yorbit.mercury.testcases.LoginTest -INFO - moved to flight selection page
+2019-10-16 12:17:20,064 - mindtree.yorbit.mercury.testcases.LoginTest -INFO - moved to passenger details screen
+2019-10-16 12:17:58,138 - mindtree.yorbit.mercury.testcases.LoginTest -INFO - Congratulations your  Flight Confirmation # 2019-10-15234745  !!
