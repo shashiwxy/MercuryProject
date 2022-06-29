@@ -10,7 +10,7 @@
 		<xmlbeans.version>2.6.0</xmlbeans.version>
 		<junit.version>4.11</junit.version>
 		<testng.version>6.14.3</testng.version>
-		<apache.poi.version>3.17</apache.poi.version>
+		<apache.poi.version>4.1.1</apache.poi.version>
 		<commons.lang.version>3.0</commons.lang.version>
 		<extentreports.version>2.41.2</extentreports.version>
 		<log4j-api.version>1.2.17</log4j-api.version>
